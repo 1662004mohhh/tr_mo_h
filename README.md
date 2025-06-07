@@ -44,13 +44,5 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
       <br>Visual Studio
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/XAMPP_Logo.png" width="48" height="48" alt="XAMPP" />
-      <br>XAMPP
-    </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/19550842?s=200&v=4" width="48" height="48" alt="Laragon" />
-      <br>Laragon
-    </td>
   </tr>
 </table>
